@@ -1,4 +1,4 @@
-# BREADTH-FIRST-SEARCH
+<img width="326" height="243" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/741054ed-d530-4449-91d0-8571d86a50b5" /># BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name:  </h3>
 <h3>Register Number: </h3>
@@ -122,6 +122,9 @@ G F <BR>
 
 <hr>
 
+<h3>OUTPUT</h3>
+<img width="326" height="243" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/09abeea9-1ad8-490a-9402-8be3ae0cb19a" />
+
 <hr>
 <h3>Sample Input</h3>
 <hr>
@@ -137,6 +140,10 @@ G F <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
+
+<h3>OUTPUT</h3>
+<img width="242" height="176" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/3f99fdbd-6c1d-480a-bb81-c35e1ed9293b" />
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Breadth First Search for the same graph was done successfully.</p>
