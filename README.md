@@ -1,4 +1,4 @@
-<img width="326" height="243" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/741054ed-d530-4449-91d0-8571d86a50b5" /># BREADTH-FIRST-SEARCH
+# BREADTH-FIRST-SEARCH
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
 <h3>Name:  </h3>
 <h3>Register Number: </h3>
