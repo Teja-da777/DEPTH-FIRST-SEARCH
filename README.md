@@ -69,10 +69,9 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 </ol>
 
 <h3>Program:</h3>
+
 python
-
 ```
-
 from collections import deque
 from collections import defaultdict
 def bfs(graph,start,visited,path):
